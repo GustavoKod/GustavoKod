@@ -4,5 +4,5 @@ Opa! Sou o Gustavo, seja muito bem vindo (a)
   
   🌱 Inciante em automação de testes
   
-  🌱 Focado em aprender Javascript para automação de testes com cypress e postman
+  🌱 Focado em aumentar minhas habilidades com Javascript para automação de testes com cypress e postman
   
