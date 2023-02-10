@@ -14,7 +14,6 @@ Opa! Sou o Gustavo, seja muito bem vindo (a)
   * Postman
   * Git
   * Javascript
-  * 
 
 ## **Cursos** ## 
 
