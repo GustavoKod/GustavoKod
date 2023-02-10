@@ -17,7 +17,7 @@
 
 ## **Cursos** ## 
 
-  * Tecnólogo em Segurança da Informação
+  * Tecnólogo em Segurança da Informação (Fatec Ourinhos)
   * Início Rápido em Teste de Software (Iterasys)
   * Introdução aos Testes de API Rest (Júlio de Lima)
   * Programação para QAs (Agilizei)
