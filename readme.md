@@ -1,6 +1,6 @@
 ## Opa! Sou o Gustavo, seja muito bem vindo (a) ##
 
-## **Sobre mim:** ## 
+## **Sobre mim** ## 
 
    * Formado em Segurança da Informação
   
