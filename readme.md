@@ -17,7 +17,7 @@
 
 ## **Cursos** ## 
 
-  * Segurança da Informação
+  * Tecnólogo em Segurança da Informação
   * Início Rápido em Teste de Software (Iterasys)
   * Introdução aos Testes de API Rest (Júlio de Lima)
   * Programação para QAs (Agilizei)
