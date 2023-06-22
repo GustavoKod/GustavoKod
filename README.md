@@ -1,16 +1,22 @@
-### Hi there 👋
+## Opa! Sou o Gustavo, seja muito bem vindo (a) ##
 
-<!--
-**GustavoKod/GustavoKod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Sobre mim** ## 
 
-Here are some ideas to get you started:
+   * Formado em Segurança da Informação
+   🌱 Inciante em Front-end Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Ferramentas/Tecnologias** ## 
+
+  * HTML
+  * CSS
+  * Git
+  * Javascript
+  * Node Js
+  * React Native
+
+## **Cursos** ## 
+
+  * Tecnólogo em Segurança da Informação (Fatec Ourinhos)
+  * Discover (Rocketseat)
+  * Ignite (Rocketseat)
+  * Início Rápido em Teste de Software (Iterasys)
