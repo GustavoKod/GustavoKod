@@ -11,7 +11,7 @@
   * CSS
   * Git
   * Javascript
-  * Node Js
+  * Tailwind CSS
   * React Native
 
 ## **Cursos** ## 
