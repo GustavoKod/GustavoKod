@@ -12,8 +12,7 @@
   * Git
   * Javascript
   * Tailwind CSS
-  * React Native
-
+  * React 
 ## **Cursos** ## 
 
   * Tecnólogo em Segurança da Informação (Fatec Ourinhos)
