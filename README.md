@@ -11,7 +11,8 @@
   * Javascript
   * Styled Components
   * React
-  * 
+  * Node.JS
+    
 ## **Cursos** ## 
   * Tecnólogo em Segurança da Informação (Fatec Ourinhos)
   * Discover (Rocketseat)
